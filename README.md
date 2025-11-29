@@ -51,7 +51,7 @@
 - **Monitor high-risk customers' credit behavior more closely.*
 
 
-- Bhavaniprasad Palli
+# Bhavaniprasad Palli
 - Data Analyst | Power BI | Excel | SQL | Python
 - 📧 pallibhavaniprasad04@gmail.com
 
